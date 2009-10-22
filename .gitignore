@@ -1,0 +1,3 @@
+# Ignore Sketchup backup files
+*~.skp
+.DS_Store
